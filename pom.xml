@@ -18,6 +18,7 @@
 
 	<dependencies>
 
+		<!--testGit-->
 		<!-- mapUtil -->
 		<dependency>
 			<groupId>commons-collections</groupId>
